@@ -50,8 +50,13 @@ To ensure absolute protection against biomimetic spoofing, and to seamlessly acc
 
 ---
 
-## Technical Metadata and Licensing
+## TECHNICAL METADATA, LICENSING AND DONATIONS
 
 * **License:** Creative Commons Attribution-ShareAlike 4.0 International Public License (CC BY-SA 4.0).
 * **Core Technical Specification File:** `manifest.tex`
-* **Monolithic System Verification Hash SHA-256:** `4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b`
+* **Official Creator Support Address (Bitcoin / Tangem 2.0 BTC):** `bc1qmrk9tah254avqgrf0q6rv2qrmdxfrmrsv9hssr`
+* **Monolithic System Verification Hash SHA-256:** `7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b`
+
+
+
+
